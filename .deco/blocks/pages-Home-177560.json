@@ -1,0 +1,105 @@
+{
+  "name": "Home",
+  "path": "/home",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<p>Capítulo Deus, Pátria e Família nº 008 - Máter da Paraíba</p>",
+      "cta": [],
+      "description": "Somos o Capítulo Deus, Pátria e Família da Ordem DeMolay. SItuados em Campina Grande - PB, fomsos o primeiro Capítulo do Estado e oitavo do Brasil."
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dpf008/99e61dda-bf24-44a5-9ba0-e3148d923f3e/WhatsApp-Image-2024-09-23-at-09.20.24_f45830ff.jpg",
+      "title": "O que é a Ordem DeMolay?",
+      "description": "A Ordem DeMolay é uma instituição centenária patrocinada pela maçonaria que visa o aperfeiçoamento social, moral e intelectual de jovens entre 12 e 21 anos do sexo masculino. Saiba mais sobre a história da Ordem DeMolay clicando no botão abaixo.",
+      "tagline": "Apresentação",
+      "disableSpacing": {
+        "top": true,
+        "bottom": true
+      },
+      "cta": [
+        {
+          "text": "História da Ordem DeMolay",
+          "href": "/historia",
+          "style": "Ghost"
+        }
+      ],
+      "placement": "left",
+      "descriptionPlacement": "right"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "description": "A nossa Ordem se dedica a algumas bases filosóficas e espirituais, sendo elas nossos 3 baluartes e nossas 7 virtudes. Os 3 baluartes são a Liberdade Religiosa, Intelectual e Civil. As 7 virtudes são: Amor filial, Reverência pelas coisas sagradas, Cortesia, Companheirismo, Fidelidade, Pureza e Patriotismo. Saiba mais detalhes sobre cada um desses preceitos clicando nos botões abaixo.",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dpf008/cc85acc0-94f0-4058-9703-ed67121e5ac6/WhatsApp-Image-2024-09-23-at-09.05.02_ad7b021b.jpg",
+      "cta": [
+        {
+          "style": "Ghost",
+          "href": "/baluartes",
+          "text": "Baluartes"
+        },
+        {
+          "style": "Ghost",
+          "href": "/virtudes",
+          "text": "Virtudes"
+        }
+      ],
+      "title": "Ao que nossa Ordem se dedica?",
+      "tagline": "Apresentação",
+      "placement": "right"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "description": "Uma das principais atividades da Ordem DeMolay é a filantropia, como, por exemplo, o tradicional Sopão DeMolay, geralmente realizado pelo nosso Capítulo mensal ou quinzenalmente. Algumas das nossas outras atividades desse cunho são: Campanha do Agasalho, Doação de produtos de limpeza e Parcerias com outras instituições filantrópicas locais. Saiba mais sobre nossa filantropias clicando no botão abaixo.",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dpf008/7be66ddb-3d4b-40e5-9545-cc3ea4f51deb/WhatsApp-Image-2024-09-23-at-09.05.02_dec39f76.jpg",
+      "cta": [
+        {
+          "href": "/filantropias",
+          "text": "Filantropias",
+          "style": "Ghost"
+        }
+      ],
+      "title": "Atividades filantrópicas",
+      "disableSpacing": {
+        "top": true,
+        "bottom": true
+      },
+      "tagline": "Atividades "
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "description": "As discussões intelectuais estão sempre presentes dentro de nossa Ordem. Para isso, a construção de um ambiente democrático e igualitário é essencial. A liberdade intelectual é a principal base para um debate equilibrado de nossas pautas. Existe também, dentro da Ordem DeMolay, a Ordem da Cavalaria, uma vertente específica para as discussões filosóficas. Saiba mais sobre a Ordem da Cavalaria clicando no botão abaixo.",
+      "image": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/dpf008/7210dbea-2462-4699-a0c4-985318a7179d/WhatsApp-Image-2024-09-23-at-10.32.48_b3710710.jpg",
+      "cta": [
+        {
+          "style": "Ghost",
+          "href": "/baluartes",
+          "text": "Ordem da Cavalaria"
+        }
+      ],
+      "title": "Atividades intelectuais",
+      "placement": "right",
+      "tagline": "Atividades "
+    },
+    {
+      "__resolveType": "site/sections/BlogPosts.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Testimonials.tsx",
+      "arrows": true
+    },
+    {
+      "__resolveType": "site/sections/Faq.tsx"
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
